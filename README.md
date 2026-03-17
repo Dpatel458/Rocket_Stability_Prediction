@@ -16,6 +16,15 @@ Instead of relying solely on real-world data (which is limited), this project le
 - 🔁 **Synthetic data generation**
 - 🤖 **Machine Learning & Neural Networks**
 
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,matplotlib" />
+</p>
+
 ---
 
 ## 🧠 Key Features
@@ -73,3 +82,8 @@ To overcome limited and imbalanced data:
 - Suitable for high-dimensional data
 
 
+
+
+---
+
+⭐ *Bridging simulation physics with machine learning for smarter rocketry.*
